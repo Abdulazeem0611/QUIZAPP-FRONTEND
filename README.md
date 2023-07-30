@@ -1,2 +1,2 @@
-# QUIZAPP-FRONTEND
+# QUIZAPP_FRONTEND
 quizzify app 
