@@ -1,2 +1,2 @@
 # QUIZAPP-FRONTEND
-quizzfy app 
+quizzify app 
