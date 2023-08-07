@@ -33,7 +33,7 @@ export const Navbar = ({route}) => {
                         route === "home" || route === "login" ? (<Link to="/" className="link">Quizzify</Link>) : "Quizzify"
                     }
                 </h1>
-            </div>
+            </div>  
             <nav className="navigation">
                 <ul className="list-non-bullet">
                     {
